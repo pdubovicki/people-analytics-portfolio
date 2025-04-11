@@ -8,6 +8,12 @@ All datasets are simulated and do not reflect real company data.
 
 - **Diversity & Inclusion Report**: A Power BI dashboard built using simulated HR data to analyze workforce composition by gender, race, disability (PCD), and education. The project explores representation across job levels and highlights potential equity gaps in leadership and operational areas.
 
+## 📊 Diversity Dashboard Preview
+
+<p align="center">
+  <img src="images/diversity_dashboard.png" alt="Diversity Dashboard" width="600"/>
+</p>
+
 ## 🛠️ Tools Used
 
 - Power BI  
